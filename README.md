@@ -106,5 +106,5 @@ GNU 通用公共许可证（第 3 版或更新版本）重新分发和/或修改
 详情请参阅 GNU 通用公共许可证。
 完整许可证文本见 LICENSE.txt。
 <p align="center">
-  🌙 由 Appteka Plus 团队夜以继日开发
+  🌙 由 Appteka 团队夜以继日开发
 </p>
